@@ -1,0 +1,79 @@
+/* div p{
+    color: blue;
+}
+div+p{
+    color: red;
+}
+div>p{
+    color: violet;
+}
+div~p{
+    color: yellow;
+} */
+/* a:link{
+    background-color: aqua;
+    color: brown;
+}
+a:visited{
+    background-color: blanchedalmond;
+    color: black;
+}
+
+a:hover{
+    background-color: yellow;
+    
+}
+
+a:active{
+    background-color: pink;
+    
+}
+
+img{
+    opacity: 0.2;
+}
+img:hover{
+    opacity: 1;
+} */
+
+/* p{
+    display: none;
+    color: red;
+    border: 1px black solid;
+}
+div:hover p{
+    display: block;
+} */
+h1{
+    color: white;
+ }
+body{
+    background-color: black;
+    background-image: url(spotify\ pre.jpg) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+img{
+    text-emphasis: blue;
+}
+
+
+a:link{
+    /* background-color: greenyellow; */
+    color: white;
+}
+a:visited{
+    background-color: greenyellow;
+    color: white;
+}
+p{
+    color: white;
+    
+    text-align:center; 
+    vertical-align: middle;
+    display: table-cell;   
+ 
+}
+a:hover{
+    background-color: yellow;
+}
